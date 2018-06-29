@@ -68,7 +68,7 @@
 }
 
 #downloadLink:hover {
-    color: #4aaaa5;
+    color: #8bb3cc;
     cursor: pointer;
 }
 
@@ -138,12 +138,12 @@ li a {
 }
 
 li a:hover{
-    color: #4aaaa5;
+    color: #8bb3cc;
 }
 
 h2{
     font-size: 28px;
-    color: #4aaaa5;
+    color: #8bb3cc;
 }    
 
 #hzrule{
@@ -228,7 +228,7 @@ textarea {
 }
 
 input[type=button]{
-    background-color:#4aaaa5;
+    background-color:#8bb3cc;
     border: none;
     color: white;
     padding: 10px 30px;
